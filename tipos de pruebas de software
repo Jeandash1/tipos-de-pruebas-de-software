@@ -1,0 +1,54 @@
+---
+title: tipos de pruebas de software
+---
+
+# tipos de pruebas de software
+
+## Pruebas Funcionales
+- Pruebas Unitarias
+- Pruebas de Integración
+- Pruebas de Sistema
+- Pruebas de Aceptación del Usuario (UAT)
+
+## Pruebas No Funcionales
+- **Rendimiento:**
+  - Pruebas de Carga
+  - Pruebas de Estrés
+  - Pruebas de Rendimiento
+- **Seguridad:**
+  - Pruebas de Penetración
+  - Pruebas de Vulnerabilidad
+- **Usabilidad:**
+  - Pruebas de Usabilidad
+  - Pruebas de Accesibilidad
+- **Fiabilidad:**
+  - Pruebas de Recuperación
+  - Pruebas de Confiabilidad
+- **Compatibilidad:**
+  - Pruebas de Interoperabilidad
+  - Pruebas de Portabilidad
+
+## Pruebas de Mantenimiento
+- Pruebas de Regresión
+- Pruebas de Impacto
+- Pruebas de Reintegración
+
+## Pruebas de Caja Blanca y Caja Negra
+- **Pruebas de Caja Blanca (estructurales):**
+  - Cobertura de Código
+  - Pruebas de Caminos
+  - Pruebas de Condiciones
+- **Pruebas de Caja Negra (funcionales):**
+  - Equivalencia de Clases
+  - Pruebas de Frontera
+  - Pruebas de Estado
+
+## Pruebas Automatizadas vs Pruebas Manuales
+- **Automatizadas:**
+  - Herramientas (ej. Selenium, JUnit)
+  - Scripts de Prueba
+  - Integración Continua
+- **Manuales:**
+  - Pruebas Exploratorias
+  - Escenarios de Prueba
+  - Pruebas Ad-hoc
